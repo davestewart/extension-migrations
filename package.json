@@ -1,0 +1,28 @@
+{
+  "name": "@davestewart/extension-migrations",
+  "version": "1.0.0",
+  "description": "Simple migration tool for browser extensions",
+  "main": "migrate.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davestewart/v.git"
+  },
+  "keywords": [
+    "migrations",
+    "web",
+    "extensions"
+  ],
+  "author": "Dave Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davestewart/v/issues"
+  },
+  "homepage": "https://github.com/davestewart/v#readme",
+  "devDependencies": {
+    "vitest": "^3.0.5"
+  }
+}
